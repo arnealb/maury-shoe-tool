@@ -1,0 +1,8 @@
+fastapi>=0.110
+python-dotenv>=1.0
+uvicorn>=0.27
+openai>=1.50
+fal-client>=0.10
+httpx>=0.27
+python-multipart>=0.0.9
+pillow>=10.0
